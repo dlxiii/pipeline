@@ -14,6 +14,8 @@
 
 ## important example files
 
-* genMesh_tokyobay.m
+* ./00_data/tokyobay_gis.m
 
-* makeFile_tokyobay.m
+* ./01_meshes/genMesh_tokyobay.m
+
+* ./02_inp/makeFile_tokyobay.m

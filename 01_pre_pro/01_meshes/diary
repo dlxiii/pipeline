@@ -1110,4 +1110,180 @@ forcing_gwo = get_GWO_forcing(Mobj.gwo.time);
             save('varb/Mobj_03.mat','Mobj','-v7.3','-nocompression');
 % air
         interpfields = {'time', 'lon', 'lat', 'x', 'y',...
+            'air'};
+        % vars = interpfields; data = forcing;
+        forcing_gwo_inter_air = grid2fvcom(Mobj, interpfields, forcing_gwo,...
+            'add_elems', false);
+[Warning: <a href="matlab: opentoline('/Users/yulong/GitHub/fvcomtoolbox/utilities/grid2fvcom.m',272,55)">File: grid2fvcom.m Line: 272 Column: 55
+</a>The temporary variable xxalt will be cleared at the beginning of each
+iteration of the parfor loop.
+Any value assigned to it before the loop will be lost.  If xxalt is used
+before it is assigned in the parfor loop, a runtime error will occur.
+See <a href="matlab: helpview([docroot '/parallel-computing/distcomp_ug.map'],'PARFOR_TEMPORARY_VARIABLES')">Parallel for Loops in MATLAB, "Temporary Variables"</a>.] 
+[Warning: <a href="matlab: opentoline('/Users/yulong/GitHub/fvcomtoolbox/utilities/grid2fvcom.m',275,25)">File: grid2fvcom.m Line: 275 Column: 25
+</a>The temporary variable yyalt will be cleared at the beginning of each
+iteration of the parfor loop.
+Any value assigned to it before the loop will be lost.  If yyalt is used
+before it is assigned in the parfor loop, a runtime error will occur.
+See <a href="matlab: helpview([docroot '/parallel-computing/distcomp_ug.map'],'PARFOR_TEMPORARY_VARIABLES')">Parallel for Loops in MATLAB, "Temporary Variables"</a>.] 
+[Warning: <a href="matlab: opentoline('/Users/yulong/GitHub/fvcomtoolbox/utilities/grid2fvcom.m',291,44)">File: grid2fvcom.m Line: 291 Column: 44
+</a>The temporary variable ftsin will be cleared at the beginning of each
+iteration of the parfor loop.
+Any value assigned to it before the loop will be lost.  If ftsin is used
+before it is assigned in the parfor loop, a runtime error will occur.
+See <a href="matlab: helpview([docroot '/parallel-computing/distcomp_ug.map'],'PARFOR_TEMPORARY_VARIABLES')">Parallel for Loops in MATLAB, "Temporary Variables"</a>.] 
+
+begin : grid2fvcom 
+number of nodes: 13444
+number of elems: 23141
+transferring variable time as is
+reassigning variable lon from unstructured grid
+reassigning variable lat from unstructured grid
+reassigning variable x from unstructured grid
+reassigning variable y from unstructured grid
+interpolation of air complete
+        save('forcing_gwo_inter_air.mat','forcing_gwo_inter_air','-v7.3','-nocompression');
+        clear forcing_gwo_inter_air;
         
+        % cld
+        interpfields = {'time', 'lon', 'lat', 'x', 'y',...
+            'cld'};
+        % vars = interpfields; data = forcing;
+        forcing_gwo_inter_cld = grid2fvcom(Mobj, interpfields, forcing_gwo,...
+            'add_elems', false);
+
+begin : grid2fvcom 
+number of nodes: 13444
+number of elems: 23141
+transferring variable time as is
+reassigning variable lon from unstructured grid
+reassigning variable lat from unstructured grid
+reassigning variable x from unstructured grid
+reassigning variable y from unstructured grid
+interpolation of cld complete
+        save('forcing_gwo_inter_cld.mat','forcing_gwo_inter_cld','-v7.3','-nocompression');
+        clear forcing_gwo_inter_cld;
+        
+        % dsw
+        interpfields = {'time', 'lon', 'lat', 'x', 'y',...
+            'dsw'};
+        % vars = interpfields; data = forcing;
+        forcing_gwo_inter_dsw = grid2fvcom(Mobj, interpfields, forcing_gwo,...
+            'add_elems', false);
+
+begin : grid2fvcom 
+number of nodes: 13444
+number of elems: 23141
+transferring variable time as is
+reassigning variable lon from unstructured grid
+reassigning variable lat from unstructured grid
+reassigning variable x from unstructured grid
+reassigning variable y from unstructured grid
+interpolation of dsw complete
+        save('forcing_gwo_inter_dsw.mat','forcing_gwo_inter_dsw','-v7.3','-nocompression');
+        clear forcing_gwo_inter_dsw;
+        
+        % hum
+        interpfields = {'time', 'lon', 'lat', 'x', 'y',...
+            'hum'};
+        % vars = interpfields; data = forcing;
+        forcing_gwo_inter_hum = grid2fvcom(Mobj, interpfields, forcing_gwo,...
+            'add_elems', false);
+
+begin : grid2fvcom 
+number of nodes: 13444
+number of elems: 23141
+transferring variable time as is
+reassigning variable lon from unstructured grid
+reassigning variable lat from unstructured grid
+reassigning variable x from unstructured grid
+reassigning variable y from unstructured grid
+interpolation of hum complete
+        save('forcing_gwo_inter_hum.mat','forcing_gwo_inter_hum','-v7.3','-nocompression');
+        clear forcing_gwo_inter_hum;
+        
+        % prs
+        interpfields = {'time', 'lon', 'lat', 'x', 'y',...
+            'prs'};
+        % vars = interpfields; data = forcing;
+        forcing_gwo_inter_prs = grid2fvcom(Mobj, interpfields, forcing_gwo,...
+            'add_elems', false);
+
+begin : grid2fvcom 
+number of nodes: 13444
+number of elems: 23141
+transferring variable time as is
+reassigning variable lon from unstructured grid
+reassigning variable lat from unstructured grid
+reassigning variable x from unstructured grid
+reassigning variable y from unstructured grid
+interpolation of prs complete
+        save('forcing_gwo_inter_prs.mat','forcing_gwo_inter_prs','-v7.3','-nocompression');
+        clear forcing_gwo_inter_prs;
+        
+        % wnd
+        interpfields = {'time', 'lon', 'lat', 'x', 'y',...
+            'uwnd','vwnd'};
+        % vars = interpfields; data = forcing_gwo;
+        forcing_gwo_inter_wnd = grid2fvcom(Mobj, interpfields, forcing_gwo,...
+            'add_elems', true);
+
+begin : grid2fvcom 
+number of nodes: 13444
+number of elems: 23141
+transferring variable time as is
+reassigning variable lon from unstructured grid
+reassigning variable lat from unstructured grid
+reassigning variable x from unstructured grid
+reassigning variable y from unstructured grid
+interpolation of uwnd complete
+interpolation of vwnd complete
+        save('forcing_gwo_inter_wnd.mat','forcing_gwo_inter_wnd','-v7.3','-nocompression');
+        clear forcing_gwo_inter_wnd;
+        
+        % rin
+        interpfields = {'time', 'lon', 'lat', 'x', 'y',...
+            'rin'};
+        % vars = interpfields; data = forcing;
+        forcing_gwo_inter_rin = grid2fvcom(Mobj, interpfields, forcing_gwo,...
+            'add_elems', false);
+
+begin : grid2fvcom 
+number of nodes: 13444
+number of elems: 23141
+transferring variable time as is
+reassigning variable lon from unstructured grid
+reassigning variable lat from unstructured grid
+reassigning variable x from unstructured grid
+reassigning variable y from unstructured grid
+interpolation of rin complete
+        save('forcing_gwo_inter_rin.mat','forcing_gwo_inter_rin','-v7.3','-nocompression');
+        clear forcing_gwo_inter_rin;
+        clear forcing_gwo;
+        clear interpfields;
+        
+        load('forcing_gwo_inter_air.mat'); forcing_gwo_interp.air = forcing_gwo_inter_air.air; clear forcing_gwo_inter_air;
+        load('forcing_gwo_inter_cld.mat'); forcing_gwo_interp.cld = forcing_gwo_inter_cld.cld; clear forcing_gwo_inter_cld;
+        load('forcing_gwo_inter_dsw.mat'); forcing_gwo_interp.dsw = forcing_gwo_inter_dsw.dsw; clear forcing_gwo_inter_dsw;
+        load('forcing_gwo_inter_hum.mat'); forcing_gwo_interp.hum = forcing_gwo_inter_hum.hum; clear forcing_gwo_inter_hum;
+        load('forcing_gwo_inter_prs.mat'); forcing_gwo_interp.prs = forcing_gwo_inter_prs.prs; clear forcing_gwo_inter_prs;
+        load('forcing_gwo_inter_rin.mat'); forcing_gwo_interp.rin = forcing_gwo_inter_rin.rin; clear forcing_gwo_inter_rin;
+        load('forcing_gwo_inter_wnd.mat'); 
+        forcing_gwo_interp.uwnd = forcing_gwo_inter_wnd.uwnd; 
+        forcing_gwo_interp.vwnd = forcing_gwo_inter_wnd.vwnd; 
+        forcing_gwo_interp.time = forcing_gwo_inter_wnd.time;
+        forcing_gwo_interp.lon  = forcing_gwo_inter_wnd.lon; 
+        forcing_gwo_interp.lat  = forcing_gwo_inter_wnd.lat; 
+        forcing_gwo_interp.x    = forcing_gwo_inter_wnd.x; 
+        forcing_gwo_interp.y    = forcing_gwo_inter_wnd.y; 
+        clear forcing_gwo_inter_wnd;
+        
+        save('forcing_gwo_interp.mat','forcing_gwo_interp','-v7.3','-nocompression');
+    end
+     end
+     ↑
+{Error: Illegal use of reserved keyword "end".
+} 
+IdleTimeout has been reached.
+Parallel pool using the 'local' profile is shutting down.
+write_FVCOM_

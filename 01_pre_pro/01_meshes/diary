@@ -1,0 +1,1113 @@
+forward projecting to get (x,y)
+[Warning: Both versions of the calculated point are outside the model domain.
+Skipping.] 
+Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('save')" style="font-weight:bold">save</a>
+Cannot create 'temp_list.mat' because 'varb' does not exist.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('makeFile_tokyobay', '/Users/yulong/GitHub/pipeline/01_pre_pro/02_inp/makeFile_tokyobay.m', 394)" style="font-weight:bold">makeFile_tokyobay</a> (<a href="matlab: opentoline('/Users/yulong/GitHub/pipeline/01_pre_pro/02_inp/makeFile_tokyobay.m',394,0)">line 394</a>)
+save('varb/temp_list.mat','temp_list','-v7.3','-nocompression');
+
+forward projecting to get (x,y)
+[Warning: Both versions of the calculated point are outside the model domain.
+Skipping.] 
+Estimated time step:	5.03
+forward projecting to get (x,y)
+[Warning: Both versions of the calculated point are outside the model domain.
+Skipping.] 
+Estimated time step:	5.03
+Calculating open boundary forcing data from OTPS...
+Position 1 of 48 (140.380 35.132)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 2 of 48 (140.375 35.116)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 3 of 48 (140.372 35.103)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 4 of 48 (140.368 35.093)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 5 of 48 (140.362 35.079)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 6 of 48 (140.358 35.069)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 7 of 48 (140.350 35.058)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 8 of 48 (140.345 35.043)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 9 of 48 (140.332 35.020)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 10 of 48 (140.313 34.992)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 11 of 48 (140.290 34.964)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 12 of 48 (140.257 34.928)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 13 of 48 (140.206 34.884)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 14 of 48 (140.157 34.851)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 15 of 48 (140.098 34.818)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 16 of 48 (140.045 34.796)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 17 of 48 (140.004 34.782)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 18 of 48 (139.965 34.771)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 19 of 48 (139.930 34.762)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 20 of 48 (139.895 34.756)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 21 of 48 (139.857 34.751)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 22 of 48 (139.816 34.747)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 23 of 48 (139.780 34.746)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 24 of 48 (139.732 34.747)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 25 of 48 (139.703 34.757)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 26 of 48 (139.662 34.755)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 27 of 48 (139.615 34.760)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 28 of 48 (139.560 34.773)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 29 of 48 (139.490 34.796)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 30 of 48 (139.456 34.810)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 31 of 48 (139.432 34.821)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 32 of 48 (139.399 34.838)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 33 of 48 (139.378 34.850)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 34 of 48 (139.355 34.866)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 35 of 48 (139.321 34.889)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 36 of 48 (139.284 34.922)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 37 of 48 (139.255 34.959)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 38 of 48 (139.228 34.984)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 39 of 48 (139.212 35.007)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 40 of 48 (139.200 35.025)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 41 of 48 (139.192 35.040)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 42 of 48 (139.182 35.058)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 43 of 48 (139.173 35.079)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 44 of 48 (139.164 35.101)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 45 of 48 (139.160 35.113)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 46 of 48 (139.157 35.124)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 47 of 48 (139.151 35.145)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Position 48 of 48 (139.149 35.158)... 
+MODE: Time series
+Reading /Users/yulong/GitHub/TMD/DATA/hf.OhS2010.out and extracting HC...
+Interpolating constituent m2  ... done
+Interpolating constituent s2  ... done
+Interpolating constituent n2  ... done
+Interpolating constituent k2  ... done
+Interpolating constituent k1  ... done
+Interpolating constituent o1  ... done
+Interpolating constituent p1  ... done
+Interpolating constituent q1  ... done
+Done extracting HC
+Predicting tide ...
+done
+Tidal forcing working time: 1.19 minutes
+develop_mode = 1;
+Downloading daliy open boundary S&T forcing from HYCOM...
+temperature: time 1 of 33... done.
+temperature: time 2 of 33... done.
+temperature: time 3 of 33... done.
+temperature: time 4 of 33... done.
+temperature: time 5 of 33... done.
+temperature: time 6 of 33... done.
+temperature: time 7 of 33... done.
+temperature: time 8 of 33... done.
+temperature: time 9 of 33... done.
+temperature: time 10 of 33... done.
+temperature: time 11 of 33...   <a href="matlab:helpPopup MException" style="font-weight:bold">MException</a> with properties:
+
+    identifier: 'MATLAB:imagesci:netcdf:librarydapFailure'
+       message: 'The NetCDF library encountered an error during execution of 'open' function - 'I/O failure (NC_EIO)'. If the data source was an  OPeNDAP URL, see the OPeNDAP Troubleshooting section in the Users Guide.'
+         cause: {0×1 cell}
+         stack: [7×1 struct]
+    Correction: []
+
+Retrying...
+  <a href="matlab:helpPopup MException" style="font-weight:bold">MException</a> with properties:
+
+    identifier: 'MATLAB:imagesci:netcdf:librarydapFailure'
+       message: 'The NetCDF library encountered an error during execution of 'open' function - 'I/O failure (NC_EIO)'. If the data source was an  OPeNDAP URL, see the OPeNDAP Troubleshooting section in the Users Guide.'
+         cause: {0×1 cell}
+         stack: [4×1 struct]
+    Correction: []
+
+Retrying...
+  <a href="matlab:helpPopup MException" style="font-weight:bold">MException</a> with properties:
+
+    identifier: 'MATLAB:imagesci:netcdf:librarydapFailure'
+       message: 'The NetCDF library encountered an error during execution of 'open' function - 'I/O failure (NC_EIO)'. If the data source was an  OPeNDAP URL, see the OPeNDAP Troubleshooting section in the Users Guide.'
+         cause: {0×1 cell}
+         stack: [4×1 struct]
+    Correction: []
+
+Retrying...
+  <a href="matlab:helpPopup MException" style="font-weight:bold">MException</a> with properties:
+
+    identifier: 'MATLAB:imagesci:netcdf:librarydapFailure'
+       message: 'The NetCDF library encountered an error during execution of 'open' function - 'I/O failure (NC_EIO)'. If the data source was an  OPeNDAP URL, see the OPeNDAP Troubleshooting section in the Users Guide.'
+         cause: {0×1 cell}
+         stack: [4×1 struct]
+    Correction: []
+
+Retrying...
+temperature: time 1 of 33...   <a href="matlab:helpPopup MException" style="font-weight:bold">MException</a> with properties:
+
+    identifier: 'MATLAB:imagesci:netcdf:librarydapFailure'
+       message: 'The NetCDF library encountered an error during execution of 'open' function - 'I/O failure (NC_EIO)'. If the data source was an  OPeNDAP URL, see the OPeNDAP Troubleshooting section in the Users Guide.'
+         cause: {0×1 cell}
+         stack: [7×1 struct]
+    Correction: []
+
+Retrying...
+  <a href="matlab:helpPopup MException" style="font-weight:bold">MException</a> with properties:
+
+    identifier: 'MATLAB:imagesci:netcdf:librarydapFailure'
+       message: 'The NetCDF library encountered an error during execution of 'open' function - 'I/O failure (NC_EIO)'. If the data source was an  OPeNDAP URL, see the OPeNDAP Troubleshooting section in the Users Guide.'
+         cause: {0×1 cell}
+         stack: [4×1 struct]
+    Correction: []
+
+Retrying...
+  <a href="matlab:helpPopup MException" style="font-weight:bold">MException</a> with properties:
+
+    identifier: 'MATLAB:imagesci:netcdf:librarydapFailure'
+       message: 'The NetCDF library encountered an error during execution of 'open' function - 'I/O failure (NC_EIO)'. If the data source was an  OPeNDAP URL, see the OPeNDAP Troubleshooting section in the Users Guide.'
+         cause: {0×1 cell}
+         stack: [4×1 struct]
+    Correction: []
+
+Retrying...
+  <a href="matlab:helpPopup MException" style="font-weight:bold">MException</a> with properties:
+
+    identifier: 'MATLAB:imagesci:netcdf:librarydapFailure'
+       message: 'The NetCDF library encountered an error during execution of 'open' function - 'I/O failure (NC_EIO)'. If the data source was an  OPeNDAP URL, see the OPeNDAP Troubleshooting section in the Users Guide.'
+         cause: {0×1 cell}
+         stack: [4×1 struct]
+    Correction: []
+
+Retrying...
+  <a href="matlab:helpPopup MException" style="font-weight:bold">MException</a> with properties:
+
+    identifier: 'MATLAB:imagesci:netcdf:librarydapFailure'
+       message: 'The NetCDF library encountered an error during execution of 'open' function - 'I/O failure (NC_EIO)'. If the data source was an  OPeNDAP URL, see the OPeNDAP Troubleshooting section in the Users Guide.'
+         cause: {0×1 cell}
+         stack: [4×1 struct]
+    Correction: []
+
+Retrying...
+  <a href="matlab:helpPopup MException" style="font-weight:bold">MException</a> with properties:
+
+    identifier: 'MATLAB:imagesci:netcdf:librarydapFailure'
+       message: 'The NetCDF library encountered an error during execution of 'open' function - 'I/O failure (NC_EIO)'. If the data source was an  OPeNDAP URL, see the OPeNDAP Troubleshooting section in the Users Guide.'
+         cause: {0×1 cell}
+         stack: [4×1 struct]
+    Correction: []
+
+Retrying...
+Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('save')" style="font-weight:bold">save</a>
+Variable 'hycom_t' not found.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('makeFile_tokyobay', '/Users/yulong/GitHub/pipeline/01_pre_pro/02_inp/makeFile_tokyobay.m', 782)" style="font-weight:bold">makeFile_tokyobay</a> (<a href="matlab: opentoline('/Users/yulong/GitHub/pipeline/01_pre_pro/02_inp/makeFile_tokyobay.m',782,0)">line 782</a>)
+            save(['hycom_t','_',num2str(inputConf.startDate(1)),'_',num2str(inputConf.endDate(1)),'.mat'],...
+
+fprintf('Downloading daliy open boundary S&T forcing from HYCOM...\n');
+Downloading daliy open boundary S&T forcing from HYCOM...
+            % T
+            for i = 1:10
+                try
+                    hycom_t = get_HYCOM_forcing(Mobj, inputConf.obctsMJD, {'temperature'}); 
+                    break;  % Break out of the i-loop on success
+                catch ME
+                    disp(ME);
+                    fprintf('Retrying...\n');
+                end
+            end
+temperature: time 1 of 33... done.
+temperature: time 2 of 33... done.
+temperature: time 3 of 33... done.
+temperature: time 4 of 33... done.
+temperature: time 5 of 33... done.
+temperature: time 6 of 33... done.
+temperature: time 7 of 33... done.
+temperature: time 8 of 33... done.
+temperature: time 9 of 33... done.
+temperature: time 10 of 33... done.
+temperature: time 11 of 33... done.
+temperature: time 12 of 33... done.
+temperature: time 13 of 33... done.
+temperature: time 14 of 33... done.
+temperature: time 15 of 33... done.
+temperature: time 16 of 33... done.
+temperature: time 17 of 33... done.
+temperature: time 18 of 33... done.
+temperature: time 19 of 33... done.
+temperature: time 20 of 33... done.
+temperature: time 21 of 33... done.
+temperature: time 22 of 33... done.
+temperature: time 23 of 33... done.
+temperature: time 24 of 33... done.
+temperature: time 25 of 33... done.
+temperature: time 26 of 33... done.
+temperature: time 27 of 33... done.
+temperature: time 28 of 33... done.
+temperature: time 29 of 33... done.
+temperature: time 30 of 33... done.
+temperature: time 31 of 33... done.
+temperature: time 32 of 33... done.
+temperature: time 33 of 33... done.
+save(['../00_data/hycom_t','_',num2str(inputConf.startDate(1)),'_',num2str(inputConf.endDate(1)),'.mat'],...
+                'hycom_t','-v7.3','-nocompression');
+            % S
+            for i = 1:10
+                try
+                    hycom_s = get_HYCOM_forcing(Mobj, inputConf.obctsMJD, {'salinity'}); 
+                    break;  % Break out of the i-loop on success
+                catch ME
+                    disp(ME);
+                    fprintf('Retrying...\n');
+                end
+            end
+salinity: time 1 of 33... done.
+salinity: time 2 of 33... done.
+salinity: time 3 of 33... done.
+salinity: time 4 of 33... done.
+salinity: time 5 of 33... done.
+salinity: time 6 of 33... done.
+salinity: time 7 of 33... done.
+salinity: time 8 of 33... done.
+salinity: time 9 of 33...   <a href="matlab:helpPopup MException" style="font-weight:bold">MException</a> with properties:
+
+    identifier: 'MATLAB:imagesci:netcdf:librarydapFailure'
+       message: 'The NetCDF library encountered an error during execution of 'open' function - 'I/O failure (NC_EIO)'. If the data source was an  OPeNDAP URL, see the OPeNDAP Troubleshooting section in the Users Guide.'
+         cause: {0×1 cell}
+         stack: [5×1 struct]
+    Correction: []
+
+Retrying...
+  <a href="matlab:helpPopup MException" style="font-weight:bold">MException</a> with properties:
+
+    identifier: 'MATLAB:imagesci:netcdf:librarydapFailure'
+       message: 'The NetCDF library encountered an error during execution of 'open' function - 'I/O failure (NC_EIO)'. If the data source was an  OPeNDAP URL, see the OPeNDAP Troubleshooting section in the Users Guide.'
+         cause: {0×1 cell}
+         stack: [2×1 struct]
+    Correction: []
+
+Retrying...
+  <a href="matlab:helpPopup MException" style="font-weight:bold">MException</a> with properties:
+
+    identifier: 'MATLAB:imagesci:netcdf:librarydapFailure'
+       message: 'The NetCDF library encountered an error during execution of 'open' function - 'I/O failure (NC_EIO)'. If the data source was an  OPeNDAP URL, see the OPeNDAP Troubleshooting section in the Users Guide.'
+         cause: {0×1 cell}
+         stack: [2×1 struct]
+    Correction: []
+
+Retrying...
+  <a href="matlab:helpPopup MException" style="font-weight:bold">MException</a> with properties:
+
+    identifier: 'MATLAB:imagesci:netcdf:librarydapFailure'
+       message: 'The NetCDF library encountered an error during execution of 'open' function - 'I/O failure (NC_EIO)'. If the data source was an  OPeNDAP URL, see the OPeNDAP Troubleshooting section in the Users Guide.'
+         cause: {0×1 cell}
+         stack: [2×1 struct]
+    Correction: []
+
+Retrying...
+  <a href="matlab:helpPopup MException" style="font-weight:bold">MException</a> with properties:
+
+    identifier: 'MATLAB:imagesci:netcdf:librarydapFailure'
+       message: 'The NetCDF library encountered an error during execution of 'open' function - 'I/O failure (NC_EIO)'. If the data source was an  OPeNDAP URL, see the OPeNDAP Troubleshooting section in the Users Guide.'
+         cause: {0×1 cell}
+         stack: [2×1 struct]
+    Correction: []
+
+Retrying...
+  <a href="matlab:helpPopup MException" style="font-weight:bold">MException</a> with properties:
+
+    identifier: 'MATLAB:imagesci:netcdf:librarydapFailure'
+       message: 'The NetCDF library encountered an error during execution of 'open' function - 'I/O failure (NC_EIO)'. If the data source was an  OPeNDAP URL, see the OPeNDAP Troubleshooting section in the Users Guide.'
+         cause: {0×1 cell}
+         stack: [2×1 struct]
+    Correction: []
+
+Retrying...
+  <a href="matlab:helpPopup MException" style="font-weight:bold">MException</a> with properties:
+
+    identifier: 'MATLAB:imagesci:netcdf:librarydapFailure'
+       message: 'The NetCDF library encountered an error during execution of 'open' function - 'I/O failure (NC_EIO)'. If the data source was an  OPeNDAP URL, see the OPeNDAP Troubleshooting section in the Users Guide.'
+         cause: {0×1 cell}
+         stack: [2×1 struct]
+    Correction: []
+
+Retrying...
+  <a href="matlab:helpPopup MException" style="font-weight:bold">MException</a> with properties:
+
+    identifier: 'MATLAB:imagesci:netcdf:librarydapFailure'
+       message: 'The NetCDF library encountered an error during execution of 'open' function - 'I/O failure (NC_EIO)'. If the data source was an  OPeNDAP URL, see the OPeNDAP Troubleshooting section in the Users Guide.'
+         cause: {0×1 cell}
+         stack: [2×1 struct]
+    Correction: []
+
+Retrying...
+  <a href="matlab:helpPopup MException" style="font-weight:bold">MException</a> with properties:
+
+    identifier: 'MATLAB:imagesci:netcdf:librarydapFailure'
+       message: 'The NetCDF library encountered an error during execution of 'open' function - 'I/O failure (NC_EIO)'. If the data source was an  OPeNDAP URL, see the OPeNDAP Troubleshooting section in the Users Guide.'
+         cause: {0×1 cell}
+         stack: [2×1 struct]
+    Correction: []
+
+Retrying...
+  <a href="matlab:helpPopup MException" style="font-weight:bold">MException</a> with properties:
+
+    identifier: 'MATLAB:imagesci:netcdf:librarydapFailure'
+       message: 'The NetCDF library encountered an error during execution of 'open' function - 'I/O failure (NC_EIO)'. If the data source was an  OPeNDAP URL, see the OPeNDAP Troubleshooting section in the Users Guide.'
+         cause: {0×1 cell}
+         stack: [2×1 struct]
+    Correction: []
+
+Retrying...
+            save(['../00_data/hycom_s','_',num2str(inputConf.startDate(1)),'_',num2str(inputConf.endDate(1)),'.mat'],...
+                'hycom_s','-v7.3','-nocompression');
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('save')" style="font-weight:bold">save</a>
+Variable 'hycom_s' not found.
+} 
+for i = 1:10
+                try
+                    hycom_s = get_HYCOM_forcing(Mobj, inputConf.obctsMJD, {'salinity'}); 
+                    break;  % Break out of the i-loop on success
+                catch ME
+                    disp(ME);
+                    fprintf('Retrying...\n');
+                end
+            end
+salinity: time 1 of 33... done.
+salinity: time 2 of 33... done.
+salinity: time 3 of 33... done.
+salinity: time 4 of 33... done.
+salinity: time 5 of 33... done.
+salinity: time 6 of 33... done.
+salinity: time 7 of 33... done.
+salinity: time 8 of 33... done.
+salinity: time 9 of 33... done.
+salinity: time 10 of 33... done.
+salinity: time 11 of 33... done.
+salinity: time 12 of 33... done.
+salinity: time 13 of 33... done.
+salinity: time 14 of 33... done.
+salinity: time 15 of 33... done.
+salinity: time 16 of 33... done.
+salinity: time 17 of 33... done.
+salinity: time 18 of 33... done.
+salinity: time 19 of 33... done.
+salinity: time 20 of 33... done.
+salinity: time 21 of 33... done.
+salinity: time 22 of 33... done.
+salinity: time 23 of 33... done.
+salinity: time 24 of 33... done.
+salinity: time 25 of 33... done.
+salinity: time 26 of 33... done.
+salinity: time 27 of 33... done.
+salinity: time 28 of 33... done.
+salinity: time 29 of 33... done.
+salinity: time 30 of 33... done.
+salinity: time 31 of 33... done.
+salinity: time 32 of 33... done.
+salinity: time 33 of 33... done.
+save(['../00_data/hycom_s','_',num2str(inputConf.startDate(1)),'_',num2str(inputConf.endDate(1)),'.mat'],...
+                'hycom_s','-v7.3','-nocompression');
+Downloading daliy open boundary S&T forcing from HYCOM...
+develop_mode = 2;
+if system_dependent('IsDebugMode')==1, dbquit; end
+Downloading daliy open boundary S&T forcing from HYCOM...
+  <a href="matlab:helpPopup MException" style="font-weight:bold">MException</a> with properties:
+
+    identifier: 'MATLAB:imagesci:netcdf:librarydapFailure'
+       message: 'The NetCDF library encountered an error during execution of 'getVarDouble' function - 'DAP failure (NC_EDAP)'. If the data source was an  OPeNDAP URL, see the OPeNDAP Troubleshooting section in the Users Guide.'
+         cause: {0×1 cell}
+         stack: [4×1 struct]
+    Correction: []
+
+Retrying...
+if system_dependent('IsDebugMode')==1, dbquit; end
+develop_mode = 2;
+Loading daliy open boundary S&T forcing from local HYCOM database...
+Downloading daliy open boundary S&T forcing from HYCOM...Done!
+
+begin : interp_coarse_to_obc
+Variable temperature on nodes (48 positions)
+interp_coarse_to_obc : 1 of 33 temperature timesteps... 
+Starting parallel pool (parpool) using the 'local' profile ...
+Connected to the parallel pool (number of workers: 2).
+interp_coarse_to_obc : 2 of 33 temperature timesteps... 
+interp_coarse_to_obc : 3 of 33 temperature timesteps... 
+interp_coarse_to_obc : 4 of 33 temperature timesteps... 
+interp_coarse_to_obc : 5 of 33 temperature timesteps... 
+interp_coarse_to_obc : 6 of 33 temperature timesteps... 
+interp_coarse_to_obc : 7 of 33 temperature timesteps... 
+interp_coarse_to_obc : 8 of 33 temperature timesteps... 
+interp_coarse_to_obc : 9 of 33 temperature timesteps... 
+interp_coarse_to_obc : 10 of 33 temperature timesteps... 
+interp_coarse_to_obc : 11 of 33 temperature timesteps... 
+interp_coarse_to_obc : 12 of 33 temperature timesteps... 
+interp_coarse_to_obc : 13 of 33 temperature timesteps... 
+interp_coarse_to_obc : 14 of 33 temperature timesteps... 
+interp_coarse_to_obc : 15 of 33 temperature timesteps... 
+interp_coarse_to_obc : 16 of 33 temperature timesteps... 
+interp_coarse_to_obc : 17 of 33 temperature timesteps... 
+interp_coarse_to_obc : 18 of 33 temperature timesteps... 
+interp_coarse_to_obc : 19 of 33 temperature timesteps... 
+interp_coarse_to_obc : 20 of 33 temperature timesteps... 
+interp_coarse_to_obc : 21 of 33 temperature timesteps... 
+interp_coarse_to_obc : 22 of 33 temperature timesteps... 
+interp_coarse_to_obc : 23 of 33 temperature timesteps... 
+interp_coarse_to_obc : 24 of 33 temperature timesteps... 
+interp_coarse_to_obc : 25 of 33 temperature timesteps... 
+interp_coarse_to_obc : 26 of 33 temperature timesteps... 
+interp_coarse_to_obc : 27 of 33 temperature timesteps... 
+interp_coarse_to_obc : 28 of 33 temperature timesteps... 
+interp_coarse_to_obc : 29 of 33 temperature timesteps... 
+interp_coarse_to_obc : 30 of 33 temperature timesteps... 
+interp_coarse_to_obc : 31 of 33 temperature timesteps... 
+interp_coarse_to_obc : 32 of 33 temperature timesteps... 
+interp_coarse_to_obc : 33 of 33 temperature timesteps... 
+
+begin : interp_coarse_to_obc
+Variable salinity on nodes (48 positions)
+interp_coarse_to_obc : 1 of 33 salinity timesteps... 
+interp_coarse_to_obc : 2 of 33 salinity timesteps... 
+interp_coarse_to_obc : 3 of 33 salinity timesteps... 
+interp_coarse_to_obc : 4 of 33 salinity timesteps... 
+interp_coarse_to_obc : 5 of 33 salinity timesteps... 
+interp_coarse_to_obc : 6 of 33 salinity timesteps... 
+interp_coarse_to_obc : 7 of 33 salinity timesteps... 
+interp_coarse_to_obc : 8 of 33 salinity timesteps... 
+interp_coarse_to_obc : 9 of 33 salinity timesteps... 
+interp_coarse_to_obc : 10 of 33 salinity timesteps... 
+interp_coarse_to_obc : 11 of 33 salinity timesteps... 
+interp_coarse_to_obc : 12 of 33 salinity timesteps... 
+interp_coarse_to_obc : 13 of 33 salinity timesteps... 
+interp_coarse_to_obc : 14 of 33 salinity timesteps... 
+interp_coarse_to_obc : 15 of 33 salinity timesteps... 
+interp_coarse_to_obc : 16 of 33 salinity timesteps... 
+interp_coarse_to_obc : 17 of 33 salinity timesteps... 
+interp_coarse_to_obc : 18 of 33 salinity timesteps... 
+interp_coarse_to_obc : 19 of 33 salinity timesteps... 
+interp_coarse_to_obc : 20 of 33 salinity timesteps... 
+interp_coarse_to_obc : 21 of 33 salinity timesteps... 
+interp_coarse_to_obc : 22 of 33 salinity timesteps... 
+interp_coarse_to_obc : 23 of 33 salinity timesteps... 
+interp_coarse_to_obc : 24 of 33 salinity timesteps... 
+interp_coarse_to_obc : 25 of 33 salinity timesteps... 
+interp_coarse_to_obc : 26 of 33 salinity timesteps... 
+interp_coarse_to_obc : 27 of 33 salinity timesteps... 
+interp_coarse_to_obc : 28 of 33 salinity timesteps... 
+interp_coarse_to_obc : 29 of 33 salinity timesteps... 
+interp_coarse_to_obc : 30 of 33 salinity timesteps... 
+interp_coarse_to_obc : 31 of 33 salinity timesteps... 
+interp_coarse_to_obc : 32 of 33 salinity timesteps... 
+interp_coarse_to_obc : 33 of 33 salinity timesteps... 
+[Warning: Integer operands are required for colon operator when used as
+index.] 
+Open boundary ST forcing making time: 1.69 minutes
+Writing daliy open boundary S&T forcing file.
+Mobj.gwo.time = inputConf.forceMJD';
+forcing_gwo = get_GWO_forcing(Mobj.gwo.time);
+            UTMzone = regexpi(inputConf.utmZone,'\ ','split');
+            for s = 1:length(forcing_gwo.lon)
+                [forcing_gwo.x(s),forcing_gwo.y(s),~,~] = wgs2utm(...
+                    forcing_gwo.lat(s),forcing_gwo.lon(s),...
+                    str2double(char(UTMzone{1}(1))),char(UTMzone{1}(2)));
+            end
+            [forcing_gwo.x,forcing_gwo.y] = meshgrid(forcing_gwo.x,forcing_gwo.y);
+            clear s UTMzone
+            save('forcing_gwo.mat','forcing_gwo','-v7.3','-nocompression');
+            save('varb/Mobj_03.mat','Mobj','-v7.3','-nocompression');
+% air
+        interpfields = {'time', 'lon', 'lat', 'x', 'y',...
+        

@@ -5,7 +5,7 @@ if ismac    % On Mac
     addpath([basedir,'pipeline/01_pre_pro/00_data/']);
     addpath([basedir,'OceanMesh2D/']);
     addpath([basedir,'OceanMesh2D/utilities/']);
-    addpath([basedir,'/map_lab_full/m_map/']);
+    addpath([basedir,'map_lab_full/m_map/']);
     addpath([basedir,'map_lab_features/coastlines/gshhg-shp-2.3.7/GSHHS_shp/f']);
     addpath([basedir,'map_lab_features/coastlines/gshhg-shp-2.3.7/GSHHS_shp/l']);
 end

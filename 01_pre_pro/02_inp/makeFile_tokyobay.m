@@ -30,8 +30,8 @@ if ismac    % On Mac
     addpath([basedir,'TMD/']);
     addpath([basedir,'TMD/FUNCTIONS/']);
     addpath([basedir,'TMD/DATA/']);
-    addpath([basedir2,'GitHub/paper_case/gwo/']);
-    addpath([basedir2,'GitHub/paper_case/RiverDischarge/']);
+    %addpath([basedir2,'GitHub/paper_case/gwo/']);
+    %addpath([basedir2,'GitHub/paper_case/RiverDischarge/']);
 elseif isunix       % Unix?
     basedir = '/home/usr0/n70110d/';
     addpath([basedir,'github/fvcomtoolbox/']);
@@ -232,10 +232,10 @@ inputConf.river.infos = {...
     'Tamagawa',...
     'Tsurumigawa'};
 % Location of river file
-inputConf.river.flux = ['river_flux.csv'];
-inputConf.river.temp = ['river_temp.csv'];
-inputConf.river.salt = ['river_salt.csv'];
-inputConf.river.location = ['location.csv'];
+inputConf.river.flux = ['../00_data/river_flux.csv'];
+inputConf.river.temp = ['../00_data/river_temp.csv'];
+inputConf.river.salt = ['../00_data/river_salt.csv'];
+inputConf.river.location = ['../00_data/river_location.csv'];
 
 % Adjust river mouth location
 % 139??55'57.84"	139??50'55.07"	139??46'29.73"	139??46'46.94"	139??40'53.63"	139??58'41.66"

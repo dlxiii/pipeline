@@ -461,6 +461,8 @@ write_FVCOM_sponge(Mobj,fullfile(inputConf.outbase,[inputConf.casename,'_spg.dat
 write_FVCOM_z0(Mobj.z0,fullfile(inputConf.outbase,[inputConf.casename,'_z0.nc']),'bottom roughness');
 % Time series wave stations
 write_FVCOM_stations(Mobj,fullfile(inputConf.outbase,[inputConf.casename,'_station.dat']));
+% 2dm file for gis
+write_SMS_2dm(fullfile(inputConf.outbase,[inputConf.casename,'_grd.2dm']), Mobj.tri, Mobj.x, Mobj.y, Mobj.h);
 
 % Save Model object file
 if exist('varb', 'dir')~=7

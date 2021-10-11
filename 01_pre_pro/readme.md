@@ -19,3 +19,12 @@
 * ./01_meshes/genMesh_tokyobay.m
 
 * ./02_inp/makeFile_tokyobay.m
+
+## tips
+
+* reading code and try.
+
+
+## todo list
+
+* run case and test if mesh is okay

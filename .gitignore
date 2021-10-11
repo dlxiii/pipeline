@@ -11,3 +11,5 @@
 01_pre_pro/02_inp/forcing_gwo_inter_wnd.mat
 01_pre_pro/02_inp/forcing_gwo_interp.mat
 01_pre_pro/02_inp/tokyobay_wnd.nc
+*.qgs~
+*.m~

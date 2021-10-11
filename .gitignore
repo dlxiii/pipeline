@@ -2,3 +2,11 @@
 .DS_Store
 01_pre_pro/00_data/hycom_s_2014_2014.mat
 01_pre_pro/00_data/hycom_t_2014_2014.mat
+01_pre_pro/02_inp/forcing_gwo_inter_air.mat
+01_pre_pro/02_inp/forcing_gwo_inter_cld.mat
+01_pre_pro/02_inp/forcing_gwo_inter_dsw.mat
+01_pre_pro/02_inp/forcing_gwo_inter_hum.mat
+01_pre_pro/02_inp/forcing_gwo_inter_prs.mat
+01_pre_pro/02_inp/forcing_gwo_inter_rin.mat
+01_pre_pro/02_inp/forcing_gwo_inter_wnd.mat
+01_pre_pro/02_inp/forcing_gwo_interp.mat
